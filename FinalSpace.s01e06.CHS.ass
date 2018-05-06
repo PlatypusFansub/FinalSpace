@@ -1,0 +1,396 @@
+[Script Info]
+; 3D subtitles converted by node-32sub
+Title: Final Space - Chapter Six
+ScriptType: v4.00+
+Collisions: Normal
+PlayResX: 1920
+PlayResY: 1080
+Original Script: unknown
+Original Translation: Kyl
+Original Editing: f1nc0 from Addic7ed.com
+Original Timing: f1nc0 from Addic7ed.com
+PlayDepth: 0
+Timer: 100.0000
+WrapStyle: 1
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: DIAB,Noto Sans S Chinese Black,75,&H00FFFFFF,&H000000FF,&H80000000,&H00000000,0,0,0,0,100,100,0,0,1,5,0,2,150,150,50,1
+Style: DIAT,Noto Sans S Chinese Black,75,&H00FFFFFF,&H000000FF,&H80000000,&H00000000,0,0,0,0,100,100,0,0,1,5,0,8,150,150,50,1
+Style: DESC,Noto Sans S Chinese Black,50,&H00FFFFFF,&H000000FF,&H80000000,&H00000000,0,0,0,0,100,100,0,0,1,5,0,8,300,300,50,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:00.07,0:00:02.52,DIAB,,0,0,0,,{\be15}把激光发射器打下来！把它打下来！\N{\fs40\b0}- Chookity? Chookity! - Shoot the laser. Shoot the laser!
+Dialogue: 0,0:00:02.55,0:00:03.98,DIAB,,0,0,0,,{\be15}月饼此时想说的是...\N{\fs40\b0}Gary: What Mooncak is trying to say here is...
+Dialogue: 0,0:00:04.01,0:00:05.23,DIAB,,0,0,0,,{\be15}从上一集的《终空》里我们得知\N{\fs40\b0}Previously on "Final Space"... 
+Dialogue: 0,0:00:05.23,0:00:07.23,DIAB,,0,0,0,,{\be15}长久以来  阿瓦卡多一直\N{\fs40\b0}Avocato's been trying to save his son, Little Cato,
+Dialogue: 0,0:00:07.26,0:00:09.30,DIAB,,0,0,0,,{\be15}想救出他的儿子  也就是\N{\fs40\b0}for a long freakin' time,
+Dialogue: 0,0:00:09.33,0:00:12.19,DIAB,,0,0,0,,{\be15}被总司令囚禁起来的小卡多  我的天哪\N{\fs40\b0}who the Lord Commander has locked away. Oh, crap!
+Dialogue: 0,0:00:12.23,0:00:13.61,DIAB,,0,0,0,,{\be15}盖瑞曾经发誓过\N{\fs40\b0}Gary swore that he wouldn't rest
+Dialogue: 0,0:00:13.61,0:00:14.99,DIAB,,0,0,0,,{\be15}不安全救回小卡多  就绝不罢休\N{\fs40\b0}until Little Cato was back home safe,
+Dialogue: 0,0:00:14.99,0:00:18.08,DIAB,,0,0,0,,{\be15}而盖瑞  从来不食言\N{\fs40\b0}and Gary always keeps his word.
+Dialogue: 0,0:00:31.59,0:00:35.87,DIAT,,0,0,0,,{\be15}盖瑞  你还有4分钟氧气可用\N{\fs40\b0}Four minutes of oxygen left, Gary.
+Dialogue: 0,0:00:35.90,0:00:39.32,DIAB,,0,0,0,,{\be15}阿瓦卡多  是时候现身把我救出来了\N{\fs40\b0}Avocato, now would be the time to appear and scoop me up.
+Dialogue: 0,0:00:39.35,0:00:41.28,DIAT,,0,0,0,,{\be15}他不会来的  盖瑞\N{\fs40\b0}He's not coming, Gary.
+Dialogue: 0,0:00:41.32,0:00:43.90,DIAT,,0,0,0,,{\be15}恐怕没人会来\N{\fs40\b0}I'm afraid no one is.
+Dialogue: 0,0:00:43.94,0:00:47.04,DIAB,,0,0,0,,{\be15}HUE  有没有可能我其实是个不死族？\N{\fs40\b0}H.U.E., what are my chances that I'm secretly an immortal?
+Dialogue: 0,0:00:47.08,0:00:50.15,DIAB,,0,0,0,,{\be15}就像宙斯  赫拉克勒斯  或者八爪大恐龙一样？\N{\fs40\b0}Like Zeus, Hercules, or Octoprime Rex?
+Dialogue: 0,0:00:50.18,0:00:52.15,DIAT,,0,0,0,,{\be15}没有这个可能\N{\fs40\b0}There is no chance.
+Dialogue: 0,0:00:52.18,0:00:55.00,DIAB,,0,0,0,,{\be15}我觉得八爪大恐龙还是有可能的\N{\fs40\b0}I think there's a chance I got an Octoprime Rex thing going on.
+Dialogue: 0,0:00:55.00,0:00:55.70,DIAB,,0,0,0,,{\be15}而且很有可能\N{\fs40\b0}Big time.
+Dialogue: 0,0:00:55.70,0:00:58.80,DIAT,,0,0,0,,{\be15}完全没有这个可能\N{\fs40\b0}You have absolutely no chance
+Dialogue: 0,0:00:58.80,0:01:01.80,DIAT,,0,0,0,,{\be15}因为八爪大恐龙是你自己编出来的\N{\fs40\b0}because Octoprime Rex is completely fabricated by you.
+Dialogue: 0,0:01:01.83,0:01:03.52,DIAB,,0,0,0,,{\be15}那如果我们讨论一下\N{\fs40\b0}If we're talking percentages
+Dialogue: 0,0:01:03.52,0:01:06.28,DIAB,,0,0,0,,{\be15}我变成八面强化霸王龙的可能性\N{\fs40\b0}of me becoming an eight-sided enhanced T-Rex,
+Dialogue: 0,0:01:06.32,0:01:07.39,DIAB,,0,0,0,,{\be15}你觉得有多大可能？\N{\fs40\b0}what are the odds?
+Dialogue: 0,0:01:07.39,0:01:09.35,DIAT,,0,0,0,,{\be15}百分之零\N{\fs40\b0}Zero percent.
+Dialogue: 0,0:01:09.39,0:01:11.52,DIAB,,0,0,0,,{\be15}所以我算是死透了\N{\fs40\b0}So death it is.
+Dialogue: 0,0:01:14.20,0:01:17.03,DIAB,,0,0,0,,鸭嘴兽字幕组出品\N {\fs50\b0}翻译 + 专访听译 + 校对 + 压制：Kyl
+Dialogue: 0,0:01:34.56,0:01:37.81,DIAB,,0,0,0,,Final Space - Chapter Six
+Dialogue: 0,0:01:34.56,0:01:37.81,DIAT,,0,0,0,,终空  第一季第六集
+Dialogue: 0,0:01:37.88,0:01:42.03,DIAB,,0,0,0,,Sync & Correction by f1nc0 from Addic7ed.com
+Dialogue: 0,0:01:37.88,0:01:42.03,DIAT,,0,0,0,,本字幕仅供学习交流  请于下载后24小时内删除
+Dialogue: 0,0:01:52.83,0:01:53.90,DIAB,,0,0,0,,{\be15}HUE 你能接个线吗\N{\fs40\b0}H.U.E., can you patch this in?
+Dialogue: 0,0:01:53.90,0:01:55.52,DIAT,,0,0,0,,{\be15}正在进行\N{\fs40\b0}H.U.E.: Transferring.
+Dialogue: 0,0:01:55.52,0:01:57.32,DIAB,,0,0,0,,{\be15}爸 这是我的坐标\N{\fs40\b0}Dad, these are my coordinates.
+Dialogue: 0,0:01:57.35,0:01:59.66,DIAB,,0,0,0,,{\be15}快来找我  我的意思是  等你有空的时候\N{\fs40\b0}Come find me. I mean, at your leisure,
+Dialogue: 0,0:01:59.66,0:02:02.52,DIAB,,0,0,0,,{\be15}不过还是希望你能快点\N{\fs40\b0}but like, for me preferably fast. That'd be great.
+Dialogue: 0,0:02:02.52,0:02:03.56,DIAB,,0,0,0,,{\be15}那是你的儿子吗\N{\fs40\b0}Is that your son?
+Dialogue: 0,0:02:03.56,0:02:05.25,DIAB,,0,0,0,,{\be15} - 是  - 看起来蛮健康的\N{\fs40\b0}- Yes. - He looks healthy.
+Dialogue: 0,0:02:05.25,0:02:06.94,DIAB,,0,0,0,,{\be15}我的意思是  呃  看起来\N{\fs40\b0}I mean, look, yeah, it looks like ... it looks like
+Dialogue: 0,0:02:06.94,0:02:08.42,DIAB,,0,0,0,,{\be15}你把他抚养得很好\N{\fs40\b0}you did a pretty good job raising the boy.
+Dialogue: 0,0:02:08.42,0:02:09.76,DIAB,,0,0,0,,{\be15}呃  很明显  他在按时洗澡\N{\fs40\b0}I mean, it's obvious he's been bathing.
+Dialogue: 0,0:02:09.77,0:02:13.90,DIAT,,0,0,0,,{\be15}我发现坐标位于11区的乌德里克斯星系\N{\fs40\b0}I've traced the coordinates to the Udrex System in Sector 11.
+Dialogue: 0,0:02:13.94,0:02:16.18,DIAB,,0,0,0,,{\be15}HUE  设置一下航线  去11区\N{\fs40\b0}H.U.E., set a course. Sector 11.
+Dialogue: 0,0:02:16.21,0:02:18.32,DIAB,,0,0,0,,{\be15}不可以！我们还要修补那个缺口呢！\N{\fs40\b0}Out of the question! We've got a breach to close!
+Dialogue: 0,0:02:18.35,0:02:22.32,DIAB,,0,0,0,,{\be15} - HUE  11区  马上！ - 退后！\N{\fs40\b0}- H.U.E., Sector 11. Now! - Stand back.
+Dialogue: 0,0:02:22.32,0:02:24.73,DIAB,,0,0,0,,{\be15} - 啊！ - 我明白了  他是你儿子\N{\fs40\b0}- Ah! - I get it. He's your son.
+Dialogue: 0,0:02:24.73,0:02:27.15,DIAB,,0,0,0,,{\be15}但如果我们不去修补缺口  就可能引发世界末日了\N{\fs40\b0}But a world can end if we don't close the breach.
+Dialogue: 0,0:02:27.18,0:02:29.32,DIAB,,0,0,0,,{\be15}你说对了  这是我的儿子\N{\fs40\b0}You're right. It is my son.
+Dialogue: 0,0:02:29.35,0:02:32.21,DIAB,,0,0,0,,{\be15} - 我们非得去救他不可   - 天啦噜！你们啥情况！\N{\fs40\b0}- And we're getting him. - Dude! What the freak?!
+Dialogue: 0,0:02:32.21,0:02:34.83,DIAB,,0,0,0,,{\be15}盖瑞  你选哪个？地球  还是他儿子？\N{\fs40\b0}Gary, which is it? Earth, or his son?
+Dialogue: 0,0:02:34.86,0:02:37.66,DIAB,,0,0,0,,{\be15} - 你必须选一个 - 别忘了  你答应过我\N{\fs40\b0}- You're going to have to choose. - Remember. You promised.
+Dialogue: 0,0:02:37.66,0:02:40.35,DIAB,,0,0,0,,{\be15}要有大事发生了！\N{\fs40\b0}It's going down!
+Dialogue: 0,0:02:40.39,0:02:43.83,DIAB,,0,0,0,,{\be15}要有...大事...发生了  你们哪！\N{\fs40\b0}It... is... going... downtown, y'all!
+Dialogue: 0,0:02:45.49,0:02:49.01,DIAB,,0,0,0,,{\be15}我考虑好了  我两个都要\N{\fs40\b0}I've thought on it... and I choose both.
+Dialogue: 0,0:02:49.01,0:02:52.15,DIAB,,0,0,0,,{\be15}不过首先  我们先要去救小卡多\N{\fs40\b0}But first, we need to save Little Cato.
+Dialogue: 0,0:02:52.94,0:02:54.18,DIAB,,0,0,0,,{\be15}给我坐这！\N{\fs40\b0}In the chair!
+Dialogue: 0,0:02:55.66,0:02:59.59,DIAB,,0,0,0,,{\be15} - 你的意思就是你儿子比全...  - 正是如此\N{\fs40\b0}- You're saying your son is worth the lives of ... - Yes.
+Dialogue: 0,0:02:59.59,0:03:03.49,DIAB,,0,0,0,,{\be15} - 有这个必要吗？ - KVN  看住了她\N{\fs40\b0}- Is this totally necessary? - KVN, watch her.
+Dialogue: 0,0:03:03.52,0:03:06.18,DIAB,,0,0,0,,{\be15}真不敢相信我那么信任你\N{\fs40\b0}I can't believe I trusted you.
+Dialogue: 0,0:03:06.61,0:03:08.83,DIAB,,0,0,0,,{\be15}我们两件事都会做\N{\fs40\b0}We're gonna do both jobs.
+Dialogue: 0,0:03:09.56,0:03:11.49,DIAB,,0,0,0,,{\be15}等着我们  我们会回来的\N{\fs40\b0}Hang tight. We'll be back.
+Dialogue: 0,0:03:18.73,0:03:20.46,DIAB,,0,0,0,,{\be15}你真的决定要一起来吗\N{\fs40\b0}You sure you want to do this?
+Dialogue: 0,0:03:20.49,0:03:22.83,DIAB,,0,0,0,,{\be15}99%可能这是一个陷阱\N{\fs40\b0}There's a 99% chance that this is a trap.
+Dialogue: 0,0:03:22.87,0:03:26.28,DIAB,,0,0,0,,{\be15}陷阱恰恰是让英雄们拿来试镜的\N{\fs40\b0}Traps are just open casting calls for heroes.
+Dialogue: 0,0:03:26.32,0:03:28.01,DIAB,,0,0,0,,{\be15}而且  你已经把奎恩绑好了\N{\fs40\b0}Plus, you already tied up Quinn,
+Dialogue: 0,0:03:28.01,0:03:31.28,DIAB,,0,0,0,,{\be15}已经没有回头路了\N{\fs40\b0}so there's no real rebound after that.
+Dialogue: 0,0:03:31.32,0:03:33.90,DIAB,,0,0,0,,{\be15} - 你真是个“好”伙计  - 我更喜欢你叫我“超级好”的伙计\N{\fs40\b0}- You're a good friend. - I would've gone with "great."
+Dialogue: 0,0:03:33.90,0:03:35.63,DIAB,,0,0,0,,{\be15}不过无论如何  我也接受“好”好了\N{\fs40\b0}But whatever. I'll take... good.
+Dialogue: 0,0:03:35.66,0:03:39.08,DIAB,,0,0,0,,{\be15} - 发生了啥？ - 我觉得我们快要抱起来了\N{\fs40\b0}- What is happening? - I think we're about to hug.
+Dialogue: 0,0:03:39.08,0:03:40.21,DIAB,,0,0,0,,{\be15}要抱吗？\N{\fs40\b0}Should we?
+Dialogue: 0,0:03:40.21,0:03:43.15,DIAB,,0,0,0,,{\be15}海妖正在用歌声诱使我们拥抱\N{\fs40\b0}The siren's call is beckoning us to embrace.
+Dialogue: 0,0:03:40.21,0:03:43.15,DESC,,0,0,0,,{\be15}海妖（Siren）：希腊神话中的女妖怪，她们用歌声使水手失神，令航船触礁沉没。
+Dialogue: 0,0:03:43.18,0:03:47.80,DIAB,,0,0,0,,{\be15} - 所以我们听她的  - 嗯\N{\fs40\b0}- We shan't ignore her. - Mmm.
+Dialogue: 0,0:03:47.83,0:03:49.11,DIAB,,0,0,0,,{\be15}真他妈好啊\N{\fs40\b0}Hell, yeah.
+Dialogue: 0,0:03:49.11,0:03:50.97,DIAB,,0,0,0,,{\be15}谢了老兄  正需要这个\N{\fs40\b0}Thanks, bud. Needed that.
+Dialogue: 0,0:03:51.01,0:03:54.00,DIAB,,0,0,0,,{\be15}走  一起把你的小子救回来\N{\fs40\b0}Let's get your boy back.
+Dialogue: 0,0:03:54.00,0:03:54.46,DIAB,,0,0,0,,{\be15}\N{\fs40\b0}Chookity!
+Dialogue: 0,0:03:54.49,0:03:57.40,DIAB,,0,0,0,,{\be15}月饼  我们需要超大一波后援\N{\fs40\b0}Mooncake, we're gonna need rich sacks of back up.
+Dialogue: 0,0:03:57.40,0:03:57.80,DIAB,,0,0,0,,{\be15}\N{\fs40\b0}Ooh!
+Dialogue: 0,0:03:57.83,0:04:00.15,DIAB,,0,0,0,,{\be15}我们要直捣总司令的流放地\N{\fs40\b0}We're goin' down to the Lord Commander's prison colony.
+Dialogue: 0,0:04:00.18,0:04:01.30,DIAB,,0,0,0,,{\be15}超危险哟！\N{\fs40\b0}It's dangerous!
+Dialogue: 0,0:04:01.30,0:04:01.73,DIAB,,0,0,0,,{\be15}\N{\fs40\b0}Ooh!
+Dialogue: 0,0:04:01.73,0:04:04.05,DIAB,,0,0,0,,{\be15}这次行动会有生命威胁！我们说不定会死翘翘喔\N{\fs40\b0}It's life-threatening! We're probably gonna die.
+Dialogue: 0,0:04:04.08,0:04:05.80,DIAB,,0,0,0,,{\be15}准备好一起来了吗  小家伙？\N{\fs40\b0}I ... You got my back, little buddy?
+Dialogue: 0,0:04:05.80,0:04:07.01,DIAB,,0,0,0,,{\be15}\N{\fs40\b0}Chookity!
+Dialogue: 0,0:04:07.01,0:04:09.35,DIAB,,0,0,0,,{\be15}我真不会卖安利  是不是\N{\fs40\b0}I didn't really sell that very well, did I?
+Dialogue: 0,0:04:09.39,0:04:11.39,DIAB,,0,0,0,,{\be15}狗带  这下没后援了\N{\fs40\b0}Crap! So no back up.
+Dialogue: 0,0:04:11.42,0:04:15.80,DIAB,,0,0,0,,{\be15} - 只有两个心怀梦想的男子汉  - HUE  我们来吧\N{\fs40\b0}- Just two hombres with a dream. - H.U.E., let's do this.
+Dialogue: 0,0:04:23.56,0:04:24.70,DIAT,,0,0,0,,{\be15}我们到了\N{\fs40\b0}We have arrived.
+Dialogue: 0,0:04:24.70,0:04:25.83,DIAB,,0,0,0,,{\be15}那就降落吧\N{\fs40\b0}Then land this thing.
+Dialogue: 0,0:04:25.83,0:04:29.52,DIAT,,0,0,0,,{\be15}很不幸  一旦降落  我们就会被发现\N{\fs40\b0}Unfortunately, if we land, we will be detected.
+Dialogue: 0,0:04:25.83,0:04:28.00,DIAB,,0,0,0,,{\fs125\c&H66DBFF}泽塔克隆  阿尔法\N{\fs75\c&H66DBFF}总司令流放地
+Dialogue: 0,0:04:29.52,0:04:30.90,DIAT,,0,0,0,,{\be15}你们需要空降\N{\fs40\b0}You'll have to space vault.
+Dialogue: 0,0:04:30.90,0:04:32.66,DIAB,,0,0,0,,{\be15}你是说  你是说我们要跳下去吗？\N{\fs40\b0}Are you sa... are you saying we gotta jump?
+Dialogue: 0,0:04:32.70,0:04:35.70,DIAB,,0,0,0,,{\be15}冲着那一坨紫云飞流直下几万米？\N{\fs40\b0}Jump like freakin' a zillion feet through that purple cloud?!
+Dialogue: 0,0:04:35.70,0:04:37.01,DIAB,,0,0,0,,{\be15}你能把我们送到多低？\N{\fs40\b0}How close can you get us?
+Dialogue: 0,0:04:37.01,0:04:39.83,DIAB,,0,0,0,,{\be15}嗯  送不到多低\N{\fs40\b0}Hmm. Nowhere near close enough.
+Dialogue: 0,0:04:39.87,0:04:44.80,DIAB,,0,0,0,,{\be15}我也没法从这么高跳下去  加把劲  HUE！\N{\fs40\b0}I can do nowhere near close enough. Punch it, H.U.E.!
+Dialogue: 0,0:05:03.87,0:05:06.32,DIAB,,0,0,0,,{\be15}这是啥？两个星球？！\N{\fs40\b0}What is this? Two planets?!
+Dialogue: 0,0:05:06.36,0:05:07.64,DIAB,,0,0,0,,{\be15}这有两个！去哪个？\N{\fs40\b0}There's two! Which one is it?
+Dialogue: 0,0:05:07.66,0:05:09.80,DIAB,,0,0,0,,{\be15} - 左边那个   - 右边的？\N{\fs40\b0}- It's left. - Right?
+Dialogue: 0,0:05:09.83,0:05:12.90,DIAB,,0,0,0,,{\be15}右边？音乐声太大了  我听不清！\N{\fs40\b0}R-Right? I-I can't hear you over the music!
+Dialogue: 0,0:05:12.94,0:05:15.32,DIAB,,0,0,0,,{\be15} - 那就右边了！   - 盖瑞！\N{\fs40\b0}- Right it is! - Gary!
+Dialogue: 0,0:05:26.47,0:05:28.56,DIAB,,0,0,0,,{\be15}哪里怪怪的\N{\fs40\b0}Something feels wrong.
+Dialogue: 0,0:05:28.59,0:05:30.70,DIAB,,0,0,0,,{\be15}是啊  因为我们来错地了\N{\fs40\b0}Yeah, because we're on the wrong planet.
+Dialogue: 0,0:05:30.73,0:05:33.63,DIAB,,0,0,0,,{\be15}同意  这个星球完全乱套了\N{\fs40\b0}Agreed. This planet is all wrong.
+Dialogue: 0,0:05:33.66,0:05:37.80,DIAB,,0,0,0,,{\be15}不  我说真的！咱们降到另一个星球了！\N{\fs40\b0}No, literally! We landed on the wrong planet!
+Dialogue: 0,0:05:37.83,0:05:40.42,DIAB,,0,0,0,,{\be15}老天爷啊！去他喵的！\N{\fs40\b0}Gosh dang it. Crap it rough!
+Dialogue: 0,0:05:40.42,0:05:41.99,DIAB,,0,0,0,,{\be15}当然咯  是左边那个  永远都被遗落的\N{\fs40\b0}Of course, it's left. It's always left.
+Dialogue: 0,0:05:42.02,0:05:46.22,DESC,,0,0,0,,{\be15}Left：双关语，既指“左边”，又指“遗落”。
+Dialogue: 0,0:05:42.02,0:05:46.22,DIAB,,0,0,0,,{\be15}我生命里的所有东西都被遗落了  被遗落了！被遗落了！\N{\fs40\b0}Everything in my life has always been left. Left! Left!
+Dialogue: 0,0:05:46.98,0:05:50.43,DIAB,,0,0,0,,{\be15}呣  呣  呣  呣  嗯  喔  喔  喔\N{\fs40\b0}Yum, yum, yum, yum! Hmm. Wup, wup, wup!
+Dialogue: 0,0:05:50.49,0:05:52.02,DIAB,,0,0,0,,{\be15}喔  喔  喔\N{\fs40\b0}Wup, wup, wup!
+Dialogue: 0,0:05:52.05,0:05:54.58,DIAB,,0,0,0,,{\be15}KVN  长得那么火辣\N{\fs40\b0}How does it feel, KVN?
+Dialogue: 0,0:05:55.74,0:05:58.64,DIAB,,0,0,0,,{\be15}那么好看  那么帅\N{\fs40\b0}To be so hot, so good looking,
+Dialogue: 0,0:05:58.67,0:06:03.63,DIAB,,0,0,0,,{\be15}到底是怎样一种体验？\N{\fs40\b0}so... so handsome?
+Dialogue: 0,0:06:06.01,0:06:09.74,DIAB,,0,0,0,,{\be15}呃  所以我是银河一号上\N{\fs40\b0}Hmm. So, uh, am I the best-looking thing
+Dialogue: 0,0:06:09.74,0:06:12.43,DIAB,,0,0,0,,{\be15} - 最好看的东西？   - 目前来看是的\N{\fs40\b0}- aboard the Galaxy One? - By far.
+Dialogue: 0,0:06:12.43,0:06:13.74,DIAB,,0,0,0,,{\be15}哦哦哦哦哦\N{\fs40\b0}Ohhhhh.
+Dialogue: 0,0:06:13.74,0:06:16.05,DIAB,,0,0,0,,{\be15}奎恩  我能让你非常高兴\N{\fs40\b0}Quinn, I can make you very happy here.
+Dialogue: 0,0:06:16.08,0:06:19.88,DIAB,,0,0,0,,{\be15} - 我应该把盖瑞杀了吗？   - 啥？！不要\N{\fs40\b0}- Uh, should I kill Gary? - What?! No.
+Dialogue: 0,0:06:19.91,0:06:23.43,DIAB,,0,0,0,,{\be15}不过也快了  到时候就只有我们俩了\N{\fs40\b0}But soon. Then it will just be the two of us.
+Dialogue: 0,0:06:23.43,0:06:26.97,DIAB,,0,0,0,,{\be15}我只说了“火辣”  这不过是\N{\fs40\b0}And when I say hot, that doesn't even begin to describe
+Dialogue: 0,0:06:26.97,0:06:30.50,DIAB,,0,0,0,,{\be15} - 你将要体验到的东西的冰山一角呢   - 哦哦哦  我火辣辣地喜欢这个！\N{\fs40\b0}- what you've got coming. - Oooooh, I like it hot!
+Dialogue: 0,0:06:30.53,0:06:34.57,DIAB,,0,0,0,,{\be15}那你就... 快把我放出来吧  KVN\N{\fs40\b0}Then you... just... untie me, KVN.
+Dialogue: 0,0:06:34.60,0:06:38.64,DIAB,,0,0,0,,{\be15}也许过会我再把你绑回来？用真爱结绑你？\N{\fs40\b0}Maybe I can re-tie you later? With love knots?
+Dialogue: 0,0:06:34.60,0:06:38.64,DESC,,0,0,0,,{\be15}真爱结（love knot）：又名“true lover's knot”，一种绳结的系法。
+Dialogue: 0,0:06:38.67,0:06:39.91,DIAB,,0,0,0,,{\be15}我到时候就可以把盖瑞杀了  对吧？\N{\fs40\b0}And then I can kill Gary later, right?
+Dialogue: 0,0:06:39.91,0:06:42.46,DIAB,,0,0,0,,{\be15}赶紧把我放出来  你个金属智障！\N{\fs40\b0}Just untie me, you metallic moron!
+Dialogue: 0,0:06:42.50,0:06:44.45,DIAB,,0,0,0,,{\be15}抱歉  确认一下  你说的是\N{\fs40\b0}Sorry, just to be clear, did you say
+Dialogue: 0,0:06:44.45,0:06:47.91,DIAB,,0,0,0,,{\be15} - 杀盖瑞  还是不杀盖瑞？  - 闭嘴！\N{\fs40\b0}- kill Gary, or don't kill Gary? - Shut up.
+Dialogue: 0,0:06:47.91,0:06:50.74,DIAB,,0,0,0,,{\be15}HUE  准备一架鹰式战机  我要去补个缺口\N{\fs40\b0}H.U.E., ready a HAWK. I got a breach to close.
+Dialogue: 0,0:06:51.70,0:06:54.15,DIAT,,0,0,0,,{\be15}奎恩  你应该再想想\N{\fs40\b0}Quinn, you should reconsider.
+Dialogue: 0,0:06:54.18,0:06:55.46,DIAB,,0,0,0,,{\be15}太迟了  把吊架打开\N{\fs40\b0}Too late. Open the hangar.
+Dialogue: 0,0:06:55.50,0:06:59.05,DIAT,,0,0,0,,{\be15}奎恩  在你走之前  我觉得你该看看这个\N{\fs40\b0}Quinn, I think there is something you should see before you go.
+Dialogue: 0,0:06:59.08,0:07:02.15,DIAB,,0,0,0,,{\be15}HUE  我毫无兴趣  我再也不相信任何人了\N{\fs40\b0}Not interested, H.U.E. No one left to trust.
+Dialogue: 0,0:07:02.19,0:07:05.15,DIAT,,0,0,0,,{\be15}你可以相信盖瑞\N{\fs40\b0}You can trust Gary.
+Dialogue: 0,0:07:05.15,0:07:07.70,DIAB,,0,0,0,,{\be15}你在开玩笑吧？\N{\fs40\b0}That's a joke, right?
+Dialogue: 0,0:07:08.19,0:07:09.67,DIAB,,0,0,0,,{\be15}这是什么？\N{\fs40\b0}What's this?
+Dialogue: 0,0:07:09.67,0:07:12.46,DIAT,,0,0,0,,{\be15}是时候让你了解真正的盖瑞了\N{\fs40\b0}It's time you get to know the real Gary.
+Dialogue: 0,0:07:14.71,0:07:16.05,DIAT,,0,0,0,,{\be15}这有成百上千条\N{\fs40\b0}There are hundreds.
+Dialogue: 0,0:07:16.05,0:07:18.50,DIAT,,0,0,0,,{\be15}是的  他服刑的每一天都录了一条\N{\fs40\b0}Yes, one for every day of his sentence.
+Dialogue: 0,0:07:18.53,0:07:21.78,DIAB,,0,0,0,,{\be15}\N{\fs40\b0}Oooh.
+Dialogue: 0,0:07:21.81,0:07:24.12,DIAB,,0,0,0,,{\be15}嗨  奎恩  是我  盖瑞\N{\fs40\b0}Hey, Quinn! It's me, Gary.
+Dialogue: 0,0:07:24.15,0:07:25.46,DIAB,,0,0,0,,{\be15}刑期第一天！\N{\fs40\b0}Day one!
+Dialogue: 0,0:07:25.49,0:07:27.12,DIAB,,0,0,0,,{\be15}呃  我其实应该先给你道个歉\N{\fs40\b0}Uh, I should probably start by apologizing to you
+Dialogue: 0,0:07:27.15,0:07:28.84,DIAB,,0,0,0,,{\be15}当然了  还有桑切斯一家\N{\fs40\b0}and of course the Sanchez family
+Dialogue: 0,0:07:28.84,0:07:31.91,DIAB,,0,0,0,,{\be15}我把他们相当一般的饭馆炸飞了\N{\fs40\b0}for blowing up their very mediocre restaurant.
+Dialogue: 0,0:07:31.95,0:07:34.33,DIAB,,0,0,0,,{\be15}实话实说\N{\fs40\b0}If we're being honest.
+Dialogue: 0,0:07:35.95,0:07:39.21,DIAB,,0,0,0,,{\be15}我们面前摆放着一个“来错星球症”的病例\N{\fs40\b0}Looks like we've come down with a case of wrong-planet-itis.
+Dialogue: 0,0:07:39.24,0:07:41.33,DIAB,,0,0,0,,{\be15} - 不过很幸运  有办法治好它   - 什么？\N{\fs40\b0}- Luckily, there's a cure. - What?
+Dialogue: 0,0:07:41.33,0:07:44.39,DIAB,,0,0,0,,{\be15}跳到那边去！\N{\fs40\b0}Jump to the next planet!
+Dialogue: 0,0:07:46.40,0:07:48.15,DIAB,,0,0,0,,{\be15}啥？没背景音乐吗 宝贝？！\N{\fs40\b0}What? No tunes, baby?!
+Dialogue: 0,0:07:48.19,0:07:49.74,DIAB,,0,0,0,,{\be15}喔！\N{\fs40\b0}Whoo!
+Dialogue: 0,0:07:49.74,0:07:52.60,DIAB,,0,0,0,,{\be15}耶！我们在星际跳跃诶！\N{\fs40\b0}Yeah! We're planet jumping, man!
+Dialogue: 0,0:07:52.64,0:07:54.02,DIAB,,0,0,0,,{\be15}星际跳跃！\N{\fs40\b0}We are planet jumping!
+Dialogue: 0,0:08:01.64,0:08:03.53,DIAB,,0,0,0,,{\be15}好的！让我们把他们杀光吧！\N{\fs40\b0}All right! Let's kill them all!
+Dialogue: 0,0:08:05.64,0:08:08.04,DIAB,,0,0,0,,{\be15}他们看不见我们过来的！\N{\fs40\b0}They're never gonna see us coming!
+Dialogue: 0,0:08:09.81,0:08:12.22,DIAB,,0,0,0,,{\be15}哦！呜啊！\N{\fs40\b0}Oh! Whoa!
+Dialogue: 0,0:08:14.02,0:08:16.09,DIAB,,0,0,0,,{\be15}要我说  我们冲进去  开足火力\N{\fs40\b0}I say we burst in, guns blazing.
+Dialogue: 0,0:08:16.12,0:08:19.33,DIAB,,0,0,0,,{\be15} - 用火力晃瞎他们   - 为了小卡多\N{\fs40\b0}- Blind fire from the hip. - For Little Cato.
+Dialogue: 0,0:08:19.33,0:08:22.19,DIAB,,0,0,0,,{\be15} - 为了小卡多   - 喵！\N{\fs40\b0}- For Little Cato. - Meow!
+Dialogue: 0,0:08:38.98,0:08:42.92,DIAB,,0,0,0,,{\be15}噢  我的天哪\N{\fs40\b0}Oh, come on!
+Dialogue: 0,0:08:42.95,0:08:46.29,DIAB,,0,0,0,,{\be15} - 不错  周围没人   - 这妥妥的是个陷阱\N{\fs40\b0}- Oh, great. Nobody's around. - This is totally a trap.
+Dialogue: 0,0:08:46.29,0:08:48.47,DIAB,,0,0,0,,{\be15} - 你去哪？   - 去办点私事\N{\fs40\b0}- Where are you going? - I gotta take care of some biz.
+Dialogue: 0,0:08:48.47,0:08:50.71,DIAB,,0,0,0,,{\be15} - 好奇吗？   - 才不   - 我还以为你会好奇呢\N{\fs40\b0}- Curious?   - No.   - Thought so.
+Dialogue: 0,0:08:50.71,0:08:52.71,DIAB,,0,0,0,,{\be15}我要撒一泡大的\N{\fs40\b0}I gotta release a fat pee stream.
+Dialogue: 0,0:08:52.75,0:08:54.05,DIAB,,0,0,0,,{\be15} - 我不好奇   - 你绝对很好奇\N{\fs40\b0}- I wasn't curious. - You were totally curious.
+Dialogue: 0,0:08:54.09,0:08:56.12,DIAB,,0,0,0,,{\be15} - 我才没有！   - 我... 算了吧！\N{\fs40\b0}- No, I wasn't! - I ... Whatever!
+Dialogue: 0,0:08:56.16,0:08:59.50,DIAB,,0,0,0,,{\be15} - 爸爸   - 小卡多\N{\fs40\b0}- Papa. - Cato....
+Dialogue: 0,0:09:00.71,0:09:02.85,DIAB,,0,0,0,,{\be15}爸爸\N{\fs40\b0}Papa.
+Dialogue: 0,0:09:03.09,0:09:06.78,DIAB,,0,0,0,,{\be15}爸爸\N{\fs40\b0}Papa.
+Dialogue: 0,0:09:14.47,0:09:18.33,DIAB,,0,0,0,,{\be15} - 爸爸   - 小卡多！\N{\fs40\b0}- Papa. - Little Cato!
+Dialogue: 0,0:09:18.36,0:09:22.26,DIAB,,0,0,0,,{\be15}哦  呃  无意破坏团圆氛围\N{\fs40\b0}Ooh. Mm-hmm, mm-hmm, not to kill the reunion vibe,
+Dialogue: 0,0:09:22.29,0:09:25.95,DIAB,,0,0,0,,{\be15}不过你儿子似乎非常不对劲\N{\fs40\b0}but there's something mega not right with your boy.
+Dialogue: 0,0:09:28.64,0:09:30.92,DIAB,,0,0,0,,{\be15}是我的错  他生我气了\N{\fs40\b0}It's my fault. He's angry with me.
+Dialogue: 0,0:09:31.09,0:09:33.57,DIAB,,0,0,0,,{\be15}呃  好吧  你懂的  那就好  那就好\N{\fs40\b0}Well, it's, uh, you know, that's great. It's good, it's good.
+Dialogue: 0,0:09:33.57,0:09:36.43,DIAB,,0,0,0,,{\be15}但是  呃  他生气的方式太奇怪了\N{\fs40\b0}But, uh, he's got a weird way of showing that,
+Dialogue: 0,0:09:36.47,0:09:40.09,DIAB,,0,0,0,,{\be15}他已经气到双脚离地了！\N{\fs40\b0}in the fact that he's hovering off the ground!
+Dialogue: 0,0:09:40.12,0:09:43.92,DIAB,,0,0,0,,{\be15} - 嗯  你说的很有道理   - 很有道理？我就知道\N{\fs40\b0}- Yeah, you got a point. - I got a point? I know I do.
+Dialogue: 0,0:09:43.95,0:09:45.71,DIAB,,0,0,0,,{\be15} - 啊！   - 啊！啊！\N{\fs40\b0}- Aah! - Aah! Agh!
+Dialogue: 0,0:09:45.74,0:09:48.23,DIAB,,0,0,0,,{\be15}好吧 很高兴见到你  你叫什么名字？\N{\fs40\b0}Okay, nice to meet you. And your name is?
+Dialogue: 0,0:09:48.23,0:09:50.74,DIAB,,0,0,0,,{\be15}死比生甜\N{\fs40\b0}Death is sweeter than life.
+Dialogue: 0,0:09:50.78,0:09:52.71,DIAB,,0,0,0,,{\be15}我不懂为什么没有更多小孩叫这个名字\N{\fs40\b0}I don't know why more kids aren't named
+Dialogue: 0,0:09:52.74,0:09:56.30,DIAB,,0,0,0,,{\be15}“死比生甜”  你儿子真棒\N{\fs40\b0}"Death is sweeter than life." Fine boy you have here.
+Dialogue: 0,0:10:00.38,0:10:03.93,DIAB,,0,0,0,,{\be15}要来真的了  盖瑞  你要守信\N{\fs40\b0}Things are about to get real. You kept your promise, Gary.
+Dialogue: 0,0:10:03.93,0:10:05.66,DIAB,,0,0,0,,{\be15}回去吧  去找奎恩\N{\fs40\b0}Go back. Go back to Quinn.
+Dialogue: 0,0:10:06.02,0:10:07.44,DIAB,,0,0,0,,{\be15}你究竟为什么要这么说？\N{\fs40\b0}Why would you even say that?
+Dialogue: 0,0:10:07.44,0:10:09.40,DIAB,,0,0,0,,{\be15}因为... 你对我了解多少？\N{\fs40\b0}Because ... what do you really know about me?
+Dialogue: 0,0:10:09.44,0:10:11.57,DIAB,,0,0,0,,{\be15}我对你的了解就是  你说你不是猫\N{\fs40\b0}I know for a guy who says he's not a cat,
+Dialogue: 0,0:10:11.61,0:10:14.09,DIAB,,0,0,0,,{\be15}当然了  你很喜欢牛奶  除此以外就没什么了解了\N{\fs40\b0}you sure do love milk. Other than that, not a lot.
+Dialogue: 0,0:10:14.09,0:10:18.02,DIAB,,0,0,0,,{\be15}盖瑞  我恨总司令是有理由的\N{\fs40\b0}Gary, I hate the Lord Commander for a reason.
+Dialogue: 0,0:10:18.06,0:10:20.75,DIAB,,0,0,0,,{\be15}我曾经是他的二把手\N{\fs40\b0}I used to be his Second in Command.
+Dialogue: 0,0:10:22.95,0:10:24.61,DIAB,,0,0,0,,{\be15}我是杀戮大师\N{\fs40\b0}I was a master of death.
+Dialogue: 0,0:10:24.61,0:10:28.02,DIAB,,0,0,0,,{\be15}我会完成总司令让我做的所有事\N{\fs40\b0}I did anything the Lord Commander asked of me.
+Dialogue: 0,0:10:28.95,0:10:32.23,DIAB,,0,0,0,,{\be15}他对忠诚度的需求远超所有人\N{\fs40\b0}He above all else demanded loyalty.
+Dialogue: 0,0:10:32.26,0:10:34.19,DIAB,,0,0,0,,{\be15}某天  他召来他所有的将领\N{\fs40\b0}And one day, he ordered all of his generals
+Dialogue: 0,0:10:34.23,0:10:37.57,DIAB,,0,0,0,,{\be15}让他们杀死他们的头生子  以示忠诚\N{\fs40\b0}to prove their allegiance to him by killing their firstborn.
+Dialogue: 0,0:10:37.61,0:10:40.95,DIAB,,0,0,0,,{\be15}哦  这太阴暗了  像半夜一样暗\N{\fs40\b0}Oh, that's pretty dark. Like midnight dark.
+Dialogue: 0,0:10:40.95,0:10:45.16,DIAB,,0,0,0,,{\be15}简直是阴暗中的阴暗  超级超级阴暗\N{\fs40\b0}Like the darkest of the dark. Like super dark.
+Dialogue: 0,0:10:45.19,0:10:46.57,DIAB,,0,0,0,,{\be15}为了永恒！\N{\fs40\b0}For eternity!
+Dialogue: 0,0:10:46.57,0:10:49.08,DIAB,,0,0,0,,{\be15}为了总司令！\N{\fs40\b0}For the Lord Commander!
+Dialogue: 0,0:10:52.71,0:10:56.64,DIAB,,0,0,0,,{\be15}动手吧  阿瓦卡多  然后成为我的一把手\N{\fs40\b0}Do it, Avocato, and become my First.
+Dialogue: 0,0:10:56.68,0:10:57.75,DIAB,,0,0,0,,{\be15}动手！\N{\fs40\b0}Do it!
+Dialogue: 0,0:11:01.54,0:11:02.78,DIAB,,0,0,0,,{\be15}啊！\N{\fs40\b0}Aah!
+Dialogue: 0,0:11:02.78,0:11:05.78,DIAB,,0,0,0,,{\be15} - 你咋不把那厮给杀了？   - 我试过了\N{\fs40\b0}- Why didn't you just kill the Big Cheese? - I tried.
+Dialogue: 0,0:11:05.78,0:11:07.40,DIAB,,0,0,0,,{\be15} - 你试过？   - 是的\N{\fs40\b0}- Did you? - Yes.
+Dialogue: 0,0:11:07.40,0:11:10.28,DIAB,,0,0,0,,{\be15}好吧  我喜欢你这一点  我相信你\N{\fs40\b0}Okay, I like that out of you. Yeah, I believe you.
+Dialogue: 0,0:11:13.19,0:11:19.19,DIAB,,0,0,0,,{\be15}如果我再从你眼里看出迟疑  记好了\N{\fs40\b0}If I sense doubt in you ever again, remember ... 
+Dialogue: 0,0:11:19.40,0:11:22.57,DIAB,,0,0,0,,{\be15}你儿子在我手里！\N{\fs40\b0}I own your son!
+Dialogue: 0,0:11:22.61,0:11:26.54,DIAB,,0,0,0,,{\be15}现在... 你也在我手里！\N{\fs40\b0}And now... I own you!
+Dialogue: 0,0:11:28.23,0:11:30.23,DIAB,,0,0,0,,{\be15}你一开始怎么和那个又小又绿的\N{\fs40\b0}How'd ya end up with a little green tic-tac
+Dialogue: 0,0:11:30.26,0:11:33.09,DIAB,,0,0,0,,{\be15} - 寰宇头号白痴扯上关系的？   \N{\fs40\b0}- cosmic butt head like that in the first place?
+Dialogue: 0,0:11:33.09,0:11:35.78,DIAB,,0,0,0,,{\be15} - 别问我这种我都不想知道答案的问题   - 嗯\N{\fs40\b0}- By not asking the questions I didn't want to hear the answers to. - Mm-hmm.
+Dialogue: 0,0:11:35.78,0:11:38.95,DIAB,,0,0,0,,{\be15} - 这到底是什么意思？   - 我犯过很多错\N{\fs40\b0}- What the hell does that even mean? - I've made a lot of mistakes.
+Dialogue: 0,0:11:38.95,0:11:41.54,DIAB,,0,0,0,,{\be15}你还想和我扯上干系吗？\N{\fs40\b0}You still want anything to do with me?
+Dialogue: 0,0:11:41.57,0:11:44.78,DIAB,,0,0,0,,{\be15}所有人都犯过很多错  重要的是为了弥补过错\N{\fs40\b0}All of us are broken. Just a question of how much
+Dialogue: 0,0:11:44.78,0:11:47.09,DIAB,,0,0,0,,{\be15}你愿意走多远  付出多少东西\N{\fs40\b0}and how far we're willing to go to fix it.
+Dialogue: 0,0:11:47.13,0:11:48.78,DIAB,,0,0,0,,{\be15}看起来你很想弥补这个\N{\fs40\b0}Seems like you want that pretty bad.
+Dialogue: 0,0:11:48.78,0:11:50.68,DIAB,,0,0,0,,{\be15} - 是的   - 那么在我看来\N{\fs40\b0}- Yeah. - Then as far as I'm concerned,
+Dialogue: 0,0:11:50.71,0:11:52.12,DIAB,,0,0,0,,{\be15}我们回到原点了\N{\fs40\b0}we're back to where we started.
+Dialogue: 0,0:11:52.13,0:11:54.06,DIAB,,0,0,0,,{\be15}我答应过你要把你儿子救出来\N{\fs40\b0}I made you a promise to get your son back.
+Dialogue: 0,0:11:54.09,0:11:56.19,DIAB,,0,0,0,,{\be15}直到救出他之前  我都会协助你\N{\fs40\b0}And until we get him back, I got your back.
+Dialogue: 0,0:11:56.23,0:11:58.75,DIAB,,0,0,0,,{\be15}一个接着一个\N{\fs40\b0}It's back to back for life!
+Dialogue: 0,0:11:58.78,0:12:04.26,DIAB,,0,0,0,,{\be15}嗨哎哎哎哎  奎恩！\N{\fs40\b0}Heeeeeeey, Quinn!
+Dialogue: 0,0:12:04.30,0:12:06.47,DIAB,,0,0,0,,{\be15}依旧是盖瑞  我写了个打油诗\N{\fs40\b0}Gary again. I wrote a jingle ... 
+Dialogue: 0,0:12:06.47,0:12:10.19,DIAB,,0,0,0,,{\be15}更像是抒情诗...  我叫它“爱的痛苦”\N{\fs40\b0}well, more of a ballad ... which I called "Love Pain."
+Dialogue: 0,0:12:10.23,0:12:12.88,DIAB,,0,0,0,,{\be15}事实上  等一下  不  它叫“痛苦的爱”\N{\fs40\b0}Actually, wait. No. It's called "Pain Love."
+Dialogue: 0,0:12:12.92,0:12:15.82,DIAB,,0,0,0,,{\be15} - 总之是这两个里的某一个   - 哦  一首歌？哦\N{\fs40\b0}- It's one of those two. - Ooh. A song? Ooh.
+Dialogue: 0,0:12:15.86,0:12:17.02,DIAB,,0,0,0,,{\be15}HUE 不给我吉他\N{\fs40\b0}H.U.E. won't let me have a guitar.
+Dialogue: 0,0:12:17.06,0:12:21.26,DIAB,,0,0,0,,{\be15}你真的觉得我会用吉他弦上吊自杀吗？！\N{\fs40\b0}Do you really think I'm going to hang myself by guitar strings?!
+Dialogue: 0,0:12:21.30,0:12:22.00,DIAT,,0,0,0,,{\be15}是的  老兄\N{\fs40\b0}Yes, dude.
+Dialogue: 0,0:12:22.00,0:12:23.54,DIAB,,0,0,0,,{\be15}好吧  你大概是猜对了\N{\fs40\b0}Yeah, well, you're probably right.
+Dialogue: 0,0:12:23.54,0:12:25.75,DIAB,,0,0,0,,{\be15}所以我用塑料勺子做了一个\N{\fs40\b0}So I made one out of a plastic spoon,
+Dialogue: 0,0:12:25.78,0:12:29.26,DIAB,,0,0,0,,{\be15}三条胶带  一根奇多  还有我的头发\N{\fs40\b0}three pieces of gravity tape, a Cheeto, and my hair.
+Dialogue: 0,0:12:30.95,0:12:32.54,DIAB,,0,0,0,,{\be15}好的  让我调个音\N{\fs40\b0}All right, let me just tune it.
+Dialogue: 0,0:12:32.54,0:12:34.37,DIAB,,0,0,0,,{\be15}其实我没太练过\N{\fs40\b0}You know, I haven't practiced this,
+Dialogue: 0,0:12:34.40,0:12:36.75,DIAB,,0,0,0,,{\be15} - 所以有点手生   - 那个呆子\N{\fs40\b0}- so I'm a little bit rusty. - That idiot.
+Dialogue: 0,0:12:37.95,0:12:39.75,DIAB,,0,0,0,,{\be15}♪ 疼痛如它  炽热如它 ♪\N{\fs40\b0}♪ It hurts, it burns ♪
+Dialogue: 0,0:12:39.78,0:12:41.26,DIAB,,0,0,0,,{\be15}♪ 痛苦如它  欢笑如它 ♪\N{\fs40\b0}♪ It pains, it laughs ♪
+Dialogue: 0,0:12:41.26,0:12:43.78,DIAB,,0,0,0,,{\be15}准备好了吗  爸爸\N{\fs40\b0}Ready, Papa?
+Dialogue: 0,0:12:47.26,0:12:50.84,DIAB,,0,0,0,,{\be15}准备好了  儿子\N{\fs40\b0}Ready, son.
+Dialogue: 0,0:12:55.41,0:12:56.93,DIAB,,0,0,0,,{\be15}我想说  你知道总司令\N{\fs40\b0}I mean, you know the Lord Commander's
+Dialogue: 0,0:12:56.93,0:13:02.07,DIAB,,0,0,0,,{\be15} - 就在这扇门后面吧？  - 惊喜一下！\N{\fs40\b0}- gonna be behind this door, right? - Surprise!
+Dialogue: 0,0:13:02.10,0:13:06.55,DIAB,,0,0,0,,{\be15} - 惊喜？你在开玩笑吧   - 老兄  没人会被你吓到\N{\fs40\b0}- Surprise? You gotta be kidding. - Dude, no one's surprised.
+Dialogue: 0,0:13:06.59,0:13:09.41,DIAB,,0,0,0,,{\be15}我可花了好长时间筹划这个呢！\N{\fs40\b0}I spent many hours of my day planning this!
+Dialogue: 0,0:13:09.45,0:13:14.03,DIAB,,0,0,0,,{\be15}为了制作这个惊喜  监狱里的其他人都被杀光了！\N{\fs40\b0}Everyone in the entire prison was murdered for this surprise!
+Dialogue: 0,0:13:14.07,0:13:15.27,DIAB,,0,0,0,,{\be15}呃  我不知道能和你说什么\N{\fs40\b0}Well, I don't know what to tell ya.
+Dialogue: 0,0:13:15.28,0:13:17.07,DIAB,,0,0,0,,{\be15} - 我觉得这样做不值得   - 闭嘴！\N{\fs40\b0}- I don't think it was worth it. - Silence!
+Dialogue: 0,0:13:17.10,0:13:18.10,DIAB,,0,0,0,,{\be15}好... 好的\N{\fs40\b0}O-Okay.
+Dialogue: 0,0:13:18.10,0:13:20.07,DIAB,,0,0,0,,{\be15}哦  哦哦哦\N{\fs40\b0}Oh. Ohhhh.
+Dialogue: 0,0:13:20.10,0:13:25.24,DIAB,,0,0,0,,{\be15} - 我还有惊喜等着你呢  那个盖瑞   - 我就叫盖瑞\N{\fs40\b0}- I have more surprises for you, the Gary. - Just... Gary.
+Dialogue: 0,0:13:25.24,0:13:28.90,DIAB,,0,0,0,,{\be15}至于你的父亲... 杀了他\N{\fs40\b0}As for your father... kill him.
+Dialogue: 0,0:13:31.45,0:13:33.48,DIAB,,0,0,0,,{\be15}啊啊啊啊啊\N{\fs40\b0}Ahhhhh!
+Dialogue: 0,0:13:34.90,0:13:38.17,DIAB,,0,0,0,,{\be15}来啊动手啊  你个矮子恶魔\N{\fs40\b0}Get on with it, you fun-sized devil.
+Dialogue: 0,0:13:38.21,0:13:41.41,DIAB,,0,0,0,,{\be15}我们都知道你不会告诉我月饼在哪的\N{\fs40\b0}We both know you won't tell me where Mooncake is,
+Dialogue: 0,0:13:41.45,0:13:46.54,DIAB,,0,0,0,,{\be15}所以我觉得  是时候自己动手找它了\N{\fs40\b0}so I think it's time I find him myself.
+Dialogue: 0,0:13:54.21,0:13:58.00,DIAB,,0,0,0,,{\be15}你在干啥？从我脑子里滚出去\N{\fs40\b0}What are you doin'? Get outta my mind, yo.
+Dialogue: 0,0:13:58.03,0:14:02.21,DIAB,,0,0,0,,{\be15}这个感官象限只有内部成员才能进来\N{\fs40\b0}This consciousness quadrant is members only.
+Dialogue: 0,0:14:02.24,0:14:05.07,DIAB,,0,0,0,,{\be15}快滚出去\N{\fs40\b0}So get out of my mind.
+Dialogue: 0,0:14:05.10,0:14:08.41,DIAB,,0,0,0,,{\be15}你不能这样  这是我的脑子\N{\fs40\b0}You can't do that. It's my mind.
+Dialogue: 0,0:14:08.45,0:14:11.41,DIAB,,0,0,0,,{\be15}我没邀请你进我的脑子\N{\fs40\b0}I didn't invite you into my mind.
+Dialogue: 0,0:14:11.45,0:14:13.83,DIAB,,0,0,0,,{\be15}快从我脑子里滚出去！\N{\fs40\b0}Get outta my mind!
+Dialogue: 0,0:14:14.06,0:14:15.76,DIAB,,0,0,0,,{\be15}这个闪光是什么意思？\N{\fs40\b0}What's this blinking one?
+Dialogue: 0,0:14:15.79,0:14:17.92,DIAT,,0,0,0,,{\be15}你有一封新消息\N{\fs40\b0}That means incoming message.
+Dialogue: 0,0:14:17.96,0:14:20.64,DIAT,,0,0,0,,{\be15}一定是刚刚的干扰让传送延迟了\N{\fs40\b0}It must have been delayed by the interference.
+Dialogue: 0,0:14:20.67,0:14:22.20,DIAB,,0,0,0,,{\be15}无论如何  把它放出来\N{\fs40\b0}Sure, whatever. Play it.
+Dialogue: 0,0:14:22.23,0:14:24.79,DIAB,,0,0,0,,{\be15}这可能是最后一次和你一对一说话了\N{\fs40\b0}This may be the last time we talk one-on-one.
+Dialogue: 0,0:14:24.82,0:14:27.72,DIAB,,0,0,0,,{\be15}我刚和阿瓦卡多说我要撒一泡大的\N{\fs40\b0}Uh, I told Avocato I was taking a fat pee,
+Dialogue: 0,0:14:27.75,0:14:30.75,DIAB,,0,0,0,,{\be15}但其实我是想和你最后说句话\N{\fs40\b0}but I just wanted to connect with you one last time
+Dialogue: 0,0:14:30.79,0:14:33.03,DIAB,,0,0,0,,{\be15}以防我死翘了之类的\N{\fs40\b0}in case, you know, I don't survive this.
+Dialogue: 0,0:14:33.06,0:14:35.30,DIAB,,0,0,0,,{\be15}奎恩  我知道我有一半时间都不会说话\N{\fs40\b0}Quinn, I know I don't say the right thing half the time
+Dialogue: 0,0:14:35.30,0:14:38.68,DIAB,,0,0,0,,{\be15}或者说任何时候都不会说话  实际上我有坏语症\N{\fs40\b0}or any of the time. You know, in fact, I have Word-arrhea.
+Dialogue: 0,0:14:38.72,0:14:41.23,DIAB,,0,0,0,,{\be15}就是一堆令人不快的话从我嘴里喷薄而出\N{\fs40\b0}It's an unpleasant spraying of words that just won't quit.
+Dialogue: 0,0:14:41.27,0:14:42.98,DIAB,,0,0,0,,{\be15}这是... 这真的是一种病\N{\fs40\b0}It ... I mean, it's ... it's a thing.
+Dialogue: 0,0:14:43.01,0:14:46.51,DIAB,,0,0,0,,{\be15}我想让你知道  我明白我伤害了你\N{\fs40\b0}Uh, I want you to know that I know that I hurt you back there.
+Dialogue: 0,0:14:46.54,0:14:48.20,DIAB,,0,0,0,,{\be15} - 安静  安静！   - 安静！\N{\fs40\b0}- Shut up. Shut up! - Shut up!
+Dialogue: 0,0:14:48.20,0:14:51.92,DIAB,,0,0,0,,{\be15}你能安静吗？！安静！\N{\fs40\b0}Could you please shut up?! Shut up!
+Dialogue: 0,0:14:51.96,0:14:53.92,DIAB,,0,0,0,,{\be15}我并不觉得那条绳子能把你绑太久\N{\fs40\b0}I don't expect that rope to hold you very long.
+Dialogue: 0,0:14:53.96,0:14:56.68,DIAB,,0,0,0,,{\be15}你很厉害  很机敏  很性感\N{\fs40\b0}I mean, you're pretty awesome and agile and hot.
+Dialogue: 0,0:14:56.72,0:15:00.23,DIAB,,0,0,0,,{\be15}我猜你现在已经从银河一号上跑出来了\N{\fs40\b0}I guess you probably left the Galaxy One by now.
+Dialogue: 0,0:15:00.27,0:15:01.82,DIAB,,0,0,0,,{\be15}但我只是想告诉你\N{\fs40\b0}But I want you to know that... 
+Dialogue: 0,0:15:01.82,0:15:04.72,DIAB,,0,0,0,,{\be15}我本应该和你一起走到最后的\N{\fs40\b0}I would have went with you till the very end.
+Dialogue: 0,0:15:04.75,0:15:06.10,DIAB,,0,0,0,,{\be15}对不起 奎恩\N{\fs40\b0}I'm sorry, Quinn.
+Dialogue: 0,0:15:06.10,0:15:09.14,DIAB,,0,0,0,,{\be15}希望有朝一日  我能修复被我破坏的信任\N{\fs40\b0}I hope one day I can repair the trust I broke.
+Dialogue: 0,0:15:10.79,0:15:15.34,DIAT,,0,0,0,,{\be15}盖瑞总是把别人的生命放在第一位\N{\fs40\b0}Gary always puts other people's lives before his own.
+Dialogue: 0,0:15:15.37,0:15:17.00,DIAB,,0,0,0,,{\be15}HUE 盖瑞在哪？\N{\fs40\b0}H.U.E., where's Gary?
+Dialogue: 0,0:15:17.00,0:15:17.72,DIAT,,0,0,0,,{\be15}未知\N{\fs40\b0}Unclear.
+Dialogue: 0,0:15:17.75,0:15:19.68,DIAT,,0,0,0,,{\be15}我和他失去联系了\N{\fs40\b0}I have lost communications with him.
+Dialogue: 0,0:15:19.72,0:15:21.82,DIAB,,0,0,0,,{\be15}我们最好下去找他\N{\fs40\b0}Then we better get down there and find him.
+Dialogue: 0,0:15:21.86,0:15:23.72,DIAB,,0,0,0,,{\be15}我们来了 盖瑞\N{\fs40\b0}We're coming, Gary.
+Dialogue: 0,0:15:23.75,0:15:25.68,DIAT,,0,0,0,,{\be15}太他妈棒了  伙计\N{\fs40\b0}Hell, yeah, dawg.
+Dialogue: 0,0:15:30.80,0:15:35.37,DIAB,,0,0,0,,{\be15}\N{\fs40\b0}INSIDE THE EPISODE AFTER CREDITS
+Dialogue: 0,0:15:35.37,0:15:37.65,DIAB,,0,0,0,,{\be15}啊\N{\fs40\b0}Aah!
+Dialogue: 0,0:15:38.58,0:15:39.86,DIAB,,0,0,0,,{\be15}小卡多\N{\fs40\b0}Little Cato?!
+Dialogue: 0,0:15:39.86,0:15:42.79,DIAB,,0,0,0,,{\be15}小卡多再也无法控制这个身体了\N{\fs40\b0}Little Cato no longer controls this body.
+Dialogue: 0,0:15:43.69,0:15:45.07,DIAB,,0,0,0,,{\be15}我知道你在里面  儿子\N{\fs40\b0}I know you're in there, son.
+Dialogue: 0,0:15:45.07,0:15:47.31,DIAB,,0,0,0,,{\be15} - 非也   - 啊！\N{\fs40\b0}- Wrong. - Agh!
+Dialogue: 0,0:15:55.76,0:15:58.62,DIAB,,0,0,0,,{\be15}我知道我是个失败的父亲\N{\fs40\b0}I've been a terrible father.
+Dialogue: 0,0:15:58.65,0:16:01.38,DIAB,,0,0,0,,{\be15}总司令毁了我  我也失去了你\N{\fs40\b0}The Lord Commander ruined me, and I lost you.
+Dialogue: 0,0:16:01.41,0:16:04.48,DIAB,,0,0,0,,{\be15}求求你了  儿子  不要让他把你也给毁了\N{\fs40\b0}Please, son. Don't let him ruin you.
+Dialogue: 0,0:16:04.52,0:16:06.96,DIAB,,0,0,0,,{\be15}万一太晚了呢？\N{\fs40\b0}What if it's too late?
+Dialogue: 0,0:16:10.62,0:16:13.17,DIAB,,0,0,0,,{\be15}不会的  你还在这\N{\fs40\b0}It's not. You're still right here.
+Dialogue: 0,0:16:17.07,0:16:19.48,DIAB,,0,0,0,,{\be15}爸爸？\N{\fs40\b0}Dad?
+Dialogue: 0,0:16:23.14,0:16:24.27,DIAB,,0,0,0,,{\be15}哦！\N{\fs40\b0}Ohh!
+Dialogue: 0,0:16:24.27,0:16:28.55,DIAB,,0,0,0,,{\be15}你怎么这么久才来？！\N{\fs40\b0}What the heck took you so long?!
+Dialogue: 0,0:16:28.58,0:16:30.93,DIAB,,0,0,0,,{\be15}现在我们快点出去\N{\fs40\b0}Now, let's get the hell out of here.
+Dialogue: 0,0:16:44.65,0:16:48.51,DIAB,,0,0,0,,{\be15} - 你在这啊   - 啊！\N{\fs40\b0}- There you are. - Aah!
+Dialogue: 0,0:16:48.52,0:16:51.72,DIAB,,0,0,0,,{\be15}月饼在银河一号上\N{\fs40\b0}Mooncake is aboard the Galaxy One.
+Dialogue: 0,0:16:51.76,0:16:55.55,DIAB,,0,0,0,,{\be15}不  他就在这\N{\fs40\b0}No. He's right here.
+Dialogue: 0,0:16:56.00,0:16:59.41,DIAB,,0,0,0,,{\be15}就是现在  月饼！\N{\fs40\b0}- Now, Mooncake! - Chookity!
+Dialogue: 0,0:16:59.45,0:17:02.13,DIAB,,0,0,0,,{\be15}不要！\N{\fs40\b0}No!
+Dialogue: 0,0:17:10.86,0:17:13.62,DIAB,,0,0,0,,{\be15} - 该走了  伙计！   - 顺便一提  我叫盖瑞\N{\fs40\b0}- Time to go, bud! - Name's Gary by the way.
+Dialogue: 0,0:17:13.62,0:17:15.58,DIAB,,0,0,0,,{\be15}很高兴看见你的爪子又着地了\N{\fs40\b0}Nice to see your paws touching the ground.
+Dialogue: 0,0:17:15.62,0:17:17.89,DIAB,,0,0,0,,{\be15}我也是  我叫小卡多\N{\fs40\b0}Little Cato. Likewise.
+Dialogue: 0,0:17:18.41,0:17:20.83,DIAB,,0,0,0,,{\be15}我们要回到银河一号上\N{\fs40\b0}We need to get to the Galaxy One.
+Dialogue: 0,0:17:26.17,0:17:27.51,DIAB,,0,0,0,,{\be15}我能做到\N{\fs40\b0}I got this.
+Dialogue: 0,0:17:27.52,0:17:30.65,DIAB,,0,0,0,,{\be15} - 嘣！好了   - 你小子快赶上我了\N{\fs40\b0}- Boom! Done. - You're almost as good as me.
+Dialogue: 0,0:17:30.69,0:17:33.48,DIAB,,0,0,0,,{\be15}切  我几年前就比你厉害了\N{\fs40\b0}Please, I passed you years ago.
+Dialogue: 0,0:17:36.10,0:17:38.64,DIAB,,0,0,0,,{\be15}啥？\N{\fs40\b0}Huh?
+Dialogue: 0,0:17:39.52,0:17:42.31,DIAB,,0,0,0,,{\be15}哦  来吧！啊！\N{\fs40\b0}Oh, come on! Aah!
+Dialogue: 0,0:17:44.00,0:17:47.89,DIAB,,0,0,0,,{\be15}KVN 来拯救地球了！\N{\fs40\b0}KVN is here to save the daaaay!
+Dialogue: 0,0:17:51.27,0:17:52.93,DIAB,,0,0,0,,{\be15} - 刚刚好险   - 我们快跑吧\N{\fs40\b0}- That was tight. - Let's move it.
+Dialogue: 0,0:18:07.07,0:18:08.93,DIAB,,0,0,0,,{\be15} - 盖瑞！   - 奎恩  你在哪？！\N{\fs40\b0}- Gary! - Quinn! Where are you?!
+Dialogue: 0,0:18:08.96,0:18:10.66,DIAB,,0,0,0,,{\be15}就是现在 HUE！\N{\fs40\b0}Now, H.U.E.!
+Dialogue: 0,0:18:13.69,0:18:15.65,DIAB,,0,0,0,,{\be15}KVN  我要把链子放下去了\N{\fs40\b0}KVN, I'm lowering the tether.
+Dialogue: 0,0:18:15.69,0:18:20.45,DIAB,,0,0,0,,{\be15} - 哦奎恩  你是真的爱我   - 我不爱你\N{\fs40\b0}- Oh, Quinn, you really do love me. - I don't love you.
+Dialogue: 0,0:18:20.45,0:18:25.07,DIAB,,0,0,0,,{\be15} - 我... 爱你！   - 万岁！\N{\fs40\b0}- I... love you. - Yes!
+Dialogue: 0,0:19:13.00,0:19:16.48,DIAB,,0,0,0,,{\be15}\N{\fs40\b0}Hoo! Wah-wah-wah wah, wah-wah-wah-wah-wah-wah.
+Dialogue: 0,0:19:16.52,0:19:20.51,DIAB,,0,0,0,,{\be15}耶！盖瑞  盖瑞  盖瑞  嘿  嘿  嘿\N{\fs40\b0}Yay! Gary, Gary, Gary. Hey, hey, hey.
+Dialogue: 0,0:19:32.13,0:19:34.07,DIAB,,0,0,0,,{\be15}今天我如此激动\N{\fs40\b0}As excited as I am about today,
+Dialogue: 0,0:19:34.10,0:19:38.03,DIAB,,0,0,0,,{\be15} - 今后  将会有更多令我激动的事等着我   - 是啊\N{\fs40\b0}- I'm even more excited for tomorrow. - Yeah.
+Dialogue: 0,0:19:45.24,0:19:46.44,DIAB,,0,0,0,,{\be15}不！\N{\fs40\b0}No!
+Dialogue: 0,0:19:46.44,0:19:49.22,DIAB,,0,0,0,,{\be15} - 不要！   - 帮我照顾好我儿子！\N{\fs40\b0}- No. - Take care of my boy.
+Dialogue: 0,0:19:49.25,0:19:52.44,DIAB,,0,0,0,,{\be15} - 不！爸！\N{\fs40\b0}No! D-Dad!
+Dialogue: 0,0:19:52.44,0:19:54.89,DIAB,,0,0,0,,{\be15}\N{\fs40\b0}♪ Welcome ♪
+Dialogue: 0,0:19:54.93,0:19:58.82,DIAB,,0,0,0,,{\be15}\N{\fs40\b0}♪ Inch'Allah, Inch'Allah ♪
+Dialogue: 0,0:19:58.86,0:20:01.87,DIAB,,0,0,0,,{\be15}\N{\fs40\b0}♪ Enter one ♪
+Dialogue: 0,0:20:01.87,0:20:06.38,DIAB,,0,0,0,,{\be15}\N{\fs40\b0}♪ Amazing grace ♪
+Dialogue: 0,0:20:06.41,0:20:09.31,DIAB,,0,0,0,,{\be15}\N{\fs40\b0}♪ Is pouring down ♪
+Dialogue: 0,0:20:09.34,0:20:12.65,DIAB,,0,0,0,,{\be15}\N{\fs40\b0}♪ Fear not this light ♪
+Dialogue: 0,0:20:12.69,0:20:20.07,DIAB,,0,0,0,,{\be15}\N{\fs40\b0}♪ We are of this light divine ♪
+Dialogue: 0,0:20:20.10,0:20:24.03,DIAB,,0,0,0,,{\be15}\N{\fs40\b0}♪ So come ♪
+Dialogue: 0,0:20:24.07,0:20:27.50,DIAB,,0,0,0,,{\be15}\N{\fs40\b0}♪ We move as one ♪
+Dialogue: 0,0:20:27.54,0:20:30.31,DIAB,,0,0,0,,{\be15}\N{\fs40\b0}♪ Amazing grace ♪
+Dialogue: 0,0:20:30.34,0:20:33.65,DIAB,,0,0,0,,{\be15}\N{\fs40\b0}♪ is pouring down ♪
+Dialogue: 0,0:20:33.69,0:20:37.98,DIAB,,0,0,0,,{\be15}\N{\fs40\b0}♪ Fear not this light ♪
+Dialogue: 0,0:20:38.01,0:20:44.64,DIAB,,0,0,0,,{\be15}\N{\fs40\b0}♪ We are on this light divine ♪
+Dialogue: 0,0:20:44.86,0:20:50.09,DIAB,,0,0,0,,{\be15}\N{\fs40\b0}♪ Welcome, enter one ♪
+Dialogue: 0,0:19:52.44,0:19:54.89,DIAT,,0,0,0,,{\be15}\N{\fs40\b0}♪ 欢迎  欢迎 ♪
+Dialogue: 0,0:19:54.93,0:19:58.82,DIAT,,0,0,0,,{\be15}\N{\fs40\b0}♪ 如神所愿  如神所愿 ♪
+Dialogue: 0,0:19:58.86,0:20:01.87,DIAT,,0,0,0,,{\be15}\N{\fs40\b0}♪ 我们将得以进入 ♪
+Dialogue: 0,0:20:01.87,0:20:06.38,DIAT,,0,0,0,,{\be15}\N{\fs40\b0}♪ 奇异的恩典 ♪
+Dialogue: 0,0:20:06.41,0:20:09.31,DIAT,,0,0,0,,{\be15}\N{\fs40\b0}♪ 自高天倾落 ♪
+Dialogue: 0,0:20:09.34,0:20:12.65,DIAT,,0,0,0,,{\be15}\N{\fs40\b0}♪ 不要怕这圣光 ♪
+Dialogue: 0,0:20:12.69,0:20:20.07,DIAT,,0,0,0,,{\be15}\N{\fs40\b0}♪ 我们就在光明神之下 ♪
+Dialogue: 0,0:20:20.10,0:20:24.03,DIAT,,0,0,0,,{\be15}\N{\fs40\b0}♪ 所以来吧 ♪
+Dialogue: 0,0:20:24.07,0:20:27.50,DIAT,,0,0,0,,{\be15}\N{\fs40\b0}♪ 我们合为一体 ♪
+Dialogue: 0,0:20:27.54,0:20:30.31,DIAT,,0,0,0,,{\be15}\N{\fs40\b0}♪ 奇异的恩典 ♪
+Dialogue: 0,0:20:30.34,0:20:33.65,DIAT,,0,0,0,,{\be15}\N{\fs40\b0}♪ 自高天倾落 ♪
+Dialogue: 0,0:20:33.69,0:20:37.98,DIAT,,0,0,0,,{\be15}\N{\fs40\b0}♪ 不要怕这圣光 ♪
+Dialogue: 0,0:20:38.01,0:20:44.64,DIAT,,0,0,0,,{\be15}\N{\fs40\b0}♪ 我们就在光明神之下 ♪
+Dialogue: 0,0:20:44.86,0:20:50.09,DIAT,,0,0,0,,{\be15}\N{\fs40\b0}♪ 欢迎  来吧 ♪
+Dialogue: 0,0:21:17.66,0:21:20.84,DIAB,,0,0,0,,{\be15}\N{\fs40\b0}Sync & Correction by f1nc0 from Addic7ed.com
+Dialogue: 0,0:21:34.09,0:21:36.92,DIAB,,0,0,0,,{\be15}幕后专访\N{\fs40\b0}INSIDE THE EPISODE
+Dialogue: 0,0:21:36.92,0:21:40.92,DIAB,,0,0,0,,{\be15}我觉得我们一直想给盖瑞一些\N{\fs40\b0}I think it was always... Gary... to make him
+Dialogue: 0,0:21:40.92,0:21:44.92,DIAB,,0,0,0,,{\be15}补偿性的特质  让他不是彻头彻尾的白痴\N{\fs40\b0}have some redeeming quality that he's not a complete idot.
+Dialogue: 0,0:21:51.42,0:21:53.52,DIAB,,0,0,0,,{\be15}至于总司令  他会做\N{\fs40\b0}The Lord Commander, he's going do
+Dialogue: 0,0:21:53.52,0:21:56.82,DIAB,,0,0,0,,{\be15}他力所能及的所有事  只为了能活下去\N{\fs40\b0}everything in his power to make sure he stays alive.
+Dialogue: 0,0:22:04.42,0:22:06.92,DIAB,,0,0,0,,{\be15}我们想做一些其它节目\N{\fs40\b0}We wanna to kind of do something that a show,
+Dialogue: 0,0:22:06.92,0:22:08.92,DIAB,,0,0,0,,{\be15}其它动画节目没做过的东西\N{\fs40\b0}an animated show really hasn't done before.
+Dialogue: 0,0:22:27.92,0:22:31.92,DIAB,,0,0,0,,{\be15}这是这个节目里非常精彩的一幕  真的是绝美的瞬间\N{\fs40\b0}It's an awesome moment of the show... really a beautiful moment.
+Dialogue: 0,0:22:31.92,0:22:34.92,DIAB,,0,0,0,,{\be15}父亲从炸弹威胁中救出儿子\N{\fs40\b0} The dad saving his son, from a bomb,
+Dialogue: 0,0:22:34.92,0:22:36.92,DIAB,,0,0,0,,{\be15}而这枚炸弹恰恰是总司令放在他背上的\N{\fs40\b0}that the Lord Commander put on his back.
